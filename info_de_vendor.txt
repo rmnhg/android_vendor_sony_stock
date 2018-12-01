@@ -15,6 +15,7 @@ Archivos de flamingo q estaban en yukon (actual)
     vendor/sony/flamingo/proprietary/bin/sct_service:system/bin/sct_service \
     vendor/sony/flamingo/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/sony/flamingo/proprietary/bin/ta_qmi_service:system/bin/ta_qmi_service \
+    vendor/sony/yukon-flamingo/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
 
 Archivos de yukon (kitkat) que no están ni en flamingo ni en yukon (actual)
     vendor/sony/yukon/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \

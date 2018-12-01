@@ -1,0 +1,43 @@
+Archivos de flamingo q estaban en yukon (actual)
+    vendor/sony/flamingo/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
+    vendor/sony/flamingo/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
+    vendor/sony/flamingo/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
+    vendor/sony/flamingo/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
+    vendor/sony/flamingo/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
+    vendor/sony/flamingo/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
+    vendor/sony/flamingo/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
+    vendor/sony/flamingo/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
+    vendor/sony/flamingo/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
+    vendor/sony/flamingo/proprietary/bin/irsc_util:system/bin/irsc_util \
+    vendor/sony/flamingo/proprietary/bin/netmgrd:system/bin/netmgrd \
+    vendor/sony/flamingo/proprietary/bin/qmuxd:system/bin/qmuxd \
+    vendor/sony/flamingo/proprietary/bin/rmt_storage:system/bin/rmt_storage \
+    vendor/sony/flamingo/proprietary/bin/sct_service:system/bin/sct_service \
+    vendor/sony/flamingo/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
+    vendor/sony/flamingo/proprietary/bin/ta_qmi_service:system/bin/ta_qmi_service \
+
+Archivos de yukon (kitkat) que no están ni en flamingo ni en yukon (actual)
+    vendor/sony/yukon/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
+    vendor/sony/yukon/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
+    vendor/sony/yukon/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
+    vendor/sony/yukon/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
+    vendor/sony/yukon/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libdrmdiag.so:system/vendor/lib/libdrmdiag.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
+    vendor/sony/yukon/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
+    vendor/sony/yukon/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libquipc_os_api.so:system/vendor/lib/libquipc_os_api.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libquipc_ulp_adapter.so:system/vendor/lib/libquipc_ulp_adapter.so \
+    vendor/sony/yukon/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
+    vendor/sony/yukon/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
+    vendor/sony/yukon/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
+    vendor/sony/yukon/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
